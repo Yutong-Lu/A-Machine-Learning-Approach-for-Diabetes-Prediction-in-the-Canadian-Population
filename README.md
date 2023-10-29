@@ -1,13 +1,12 @@
 # CHL5230FinalProject
 ## Authors: Feifan Xiang, Yutong Lu, Xiaoxuan Han
 
-
+**At this stage, the final code is Yutong-FinalProject.ipynb**
 **Use diabetes data set**
 
 
 ## Research Question
 - What are the factors associated with diabetes?
-- What is the minimum change in biomarkers to enter another class?
 - What are the differences in the risk of developing diabetes between patients who are diagnosed with depression and who are not? 
 
 
