@@ -1,7 +1,7 @@
 # CHL5230FinalProject
 ## Authors: Feifan Xiang, Yutong Lu, Xiaoxuan Han
 
-**At this stage, the final code is Updated_FINAL.ipynb**
+**At this stage, the final code are Updated_FINAL.ipynb and NLP_cleaning_and_word_cloud.ipynb**
 
 **Use diabetes data set**
 
