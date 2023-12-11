@@ -1,7 +1,7 @@
 # CHL5230FinalProject
 ## Authors: Feifan Xiang, Yutong Lu, Xiaoxuan Han
 
-**At this stage, the final code is Yutong-FinalProject.ipynb**
+**At this stage, the final code is Updated_FINAL.ipynb**
 
 **Use diabetes data set**
 
