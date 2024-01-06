@@ -1,6 +1,7 @@
 # A Machine Learning Approach for Diabetes Prediction in the Canadian Population
-## CHL5230 Final Project, Dalla Lana School of Public Health
 ## Authors: Feifan Xiang, Yutong Lu, Xiaoxuan Han
+
+**Final Project, CHL5230, Dalla Lana School of Public Health**
 
 **The final code are Updated_FINAL.ipynb and NLP_cleaning_and_word_cloud.ipynb**
 
